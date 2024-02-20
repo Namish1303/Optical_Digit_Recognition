@@ -1,5 +1,5 @@
-# NumberRecognition
-Python program to recognize numbers using csv files
+# Optical Digit Recognition
+Python program to recognize numbers using Naive Bayes Theorem
 
 
 
